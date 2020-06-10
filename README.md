@@ -1,4 +1,4 @@
-# mootpont
+# mootpoint
 
 Hi Humans,
 
